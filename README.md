@@ -32,17 +32,6 @@ A pixel-perfect clone of the RazorPay website showcasing modern web development 
 - **Semantic HTML5** structure
 - **Fast loading** with Vite build system
 
-## 🚀 Live Demo
-
-[View Live Demo](your-demo-link-here) <!-- Replace with your actual demo link -->
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/2b84ea/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/2b84ea/ffffff?text=Mobile+View)
 
 ## 🛠 Technologies Used
 
@@ -182,14 +171,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Feather Icons** for the beautiful icon set
 - **Vite** for the incredible development experience
 
-## 📞 Contact
-
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/razorpay-clone](https://github.com/yourusername/razorpay-clone)
-
 ---
-
-⭐ **Star this repo if you found it helpful!** ⭐
-
 *Made with ❤️ and lots of ☕*
